@@ -9,6 +9,8 @@ The following processes take place in the project:
 4. Data Processing: Estimate how many unique DataSubjectIds each viewer have seen. The calculation is performed using the HyperLogLog algorithm.
 5. Save the results in MongoDB
 6. Display the results on Html page
+
+
 In order to run the project, the following steps are required:
 1. Download the project from git-hub
 2. Run kafka & mongo servers in the local environment
